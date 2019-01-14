@@ -1,0 +1,6 @@
+﻿  SLS-CtC.cpp
+c:\users\l3in\documents\visual studio 2015\projects\sls-ctc\sls-ctc.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\l3in\documents\visual studio 2015\projects\sls-ctc\sls-ctc.cpp(90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\l3in\documents\visual studio 2015\projects\sls-ctc\sls-ctc.cpp(224): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SLS-CtC.vcxproj -> C:\Users\L3IN\Documents\Visual Studio 2015\Projects\SLS-CtC\x64\Debug\SLS-CtC.exe
+  SLS-CtC.vcxproj -> C:\Users\L3IN\Documents\Visual Studio 2015\Projects\SLS-CtC\x64\Debug\SLS-CtC.pdb (Partial PDB)

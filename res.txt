@@ -1,0 +1,9 @@
+71
+69 correct
+
+wrongly classified : 192, 917
+not detected: 97, 106
+
+detected: 71/119
+
+correct - 44/71
